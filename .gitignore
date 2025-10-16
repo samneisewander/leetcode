@@ -1,3 +1,4 @@
 :q
 *.o
 .venv/
+.vscode/
